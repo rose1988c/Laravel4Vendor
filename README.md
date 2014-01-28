@@ -1,0 +1,4 @@
+Laravel4Vendor
+==============
+
+Vendor
